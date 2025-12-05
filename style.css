@@ -81,6 +81,9 @@ body {
   color: #fff;
   padding: 12px;
   border-radius: 5px;
+}
+
+.task-item i:hover {
   cursor: pointer;
 }
 
