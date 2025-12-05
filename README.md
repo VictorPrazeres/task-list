@@ -2,7 +2,6 @@
 
 Uma aplicação web simples e intuitiva para gerenciamento de tarefas diárias. Este projeto foi desenvolvido para praticar manipulação de DOM, estilização com CSS moderno e persistência de dados com LocalStorage.
 
-![Preview do Projeto](https://github.com/VictorPrazeres/task-list/blob/main/image_fa5ac8.png?raw=true)
 
 ## 🚀 Funcionalidades
 
