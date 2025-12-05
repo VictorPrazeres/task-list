@@ -26,6 +26,8 @@ const handleAddTask = () => {
   taskItemContainer.appendChild(deleteItem)
 
   tasksContainer.appendChild(taskItemContainer)
+
+  inputElement.value = ""
 }
 
 const handleInputChange = () => {
